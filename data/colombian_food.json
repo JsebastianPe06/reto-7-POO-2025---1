@@ -1,0 +1,39 @@
+{
+    "Empanada de Carne": {
+        "price": 6,
+        "quantity": 3,
+        "specific_discount": 0,
+        "condition_discount": false,
+        "size": "Small"
+    },
+    "Bandeja Paisa": {
+        "price": 18,
+        "quantity": 1,
+        "specific_discount": 0,
+        "condition_discount": false,
+        "vegetarian": false,
+        "family_size": true
+    },
+    "Aguapanela con Lim\u00f3n": {
+        "price": 3,
+        "quantity": 1,
+        "specific_discount": 0,
+        "condition_discount": false,
+        "type": "Traditional"
+    },
+    "Arroz con Leche": {
+        "price": 5,
+        "quantity": 1,
+        "specific_discount": 0,
+        "condition_discount": false,
+        "size": "Medium"
+    },
+    "Burger": {
+        "price": 12,
+        "quantity": 1,
+        "specific_discount": 0,
+        "condition_discount": false,
+        "vegetarian": false,
+        "family_size": false
+    }
+}
